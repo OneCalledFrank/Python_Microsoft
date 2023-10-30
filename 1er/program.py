@@ -10,7 +10,7 @@ print("Muestra ésto por consola")
 
 # Variables en python
 
-sum = 1 + 2  # 3
+# sum = 1 + 2  # 3
 product = sum * 2
 print(product)
 
@@ -36,10 +36,10 @@ print(type(llego_a_la_luna))
 
 # Operadores aritméticos
 # + - / *
-1 + 1
-1 - 2
-10 / 2
-2 * 2
+# 1 + 1
+# 1 - 2
+# 10 / 2
+# 2 * 2
 
 # Operadores de asignación
 # = , += , -= , /= , *=
